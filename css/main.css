@@ -29,8 +29,9 @@ html, body {
 }
 
 #content {
+    width: 600px;
     padding-top: 20px;
-    text-align: center;
+    margin: 0 auto;
 }
 
 .sub_title {
@@ -47,6 +48,7 @@ html, body {
   font-size: 16px;
   height: auto;
   margin-bottom: 26px;
+  line-height: 24px;
 }
 
 .code {
